@@ -4,5 +4,6 @@ public class Branch1_Practice {
 
         System.out.println("This is the shortcut");
         // This is real branch1
+        // Let's push this one
     }
 }
